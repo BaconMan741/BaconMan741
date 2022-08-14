@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaconMan741
 - 👀 I’m interested in ... becoming a developer
-- 🌱 I’m currently learning ... Python3
+- 🌱 I’m currently learning ... Python3 and Java
 - 💞️ I’m looking to collaborate on ... anything helpful for a newb
 - 📫 How to reach me ... discord BaconMan741#1121
 
